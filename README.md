@@ -26,4 +26,5 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone [https://github.com/kudaiber/telegram_module.git](https://github.com/kudaiber/telegram_module.git)
+git clone https://github.com/kudaiber/telegram_module.git
+cd telegram_module
